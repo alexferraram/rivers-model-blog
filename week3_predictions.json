@@ -1,0 +1,134 @@
+{
+  "predictions": [
+    {
+      "away_team": "MIA",
+      "home_team": "BUF",
+      "winner": "BUF",
+      "confidence": 81.0,
+      "injury_report": "BUF: Matt Milano (LB) - Out, Ed Oliver (DT) - Out | MIA: Storm Duck (CB) - Out, Ifeatu Melifonwu (S) - Out, Darren Waller (TE) - Out"
+    },
+    {
+      "away_team": "ATL",
+      "home_team": "CAR",
+      "winner": "ATL",
+      "confidence": 66.0,
+      "injury_report": "CAR: Patrick Jones II (LB) - Out, Tershawn Wharton (DT) - Out | ATL: Jamal Agnew (WR) - Out, A.J. Terrell (CB) - Out, Casey Washington (WR) - Out"
+    },
+    {
+      "away_team": "GB",
+      "home_team": "CLE",
+      "winner": "GB",
+      "confidence": 80.7,
+      "injury_report": "CLE: Mike Hall Jr. (DT) - Out | GB: Jayden Reed (WR) - Out"
+    },
+    {
+      "away_team": "HOU",
+      "home_team": "JAX",
+      "winner": "JAX",
+      "confidence": 69.3,
+      "injury_report": "JAX: Wyatt Milum (G) - Out | HOU: Jaylin Smith (CB) - Out"
+    },
+    {
+      "away_team": "CIN",
+      "home_team": "MIN",
+      "winner": "CIN",
+      "confidence": 64.2,
+      "injury_report": "MIN: Ryan Kelly (C) - Out, J.J. McCarthy (QB) - Out, Justin Skule (T) - Out | CIN: Shemar Stewart (DE) - Out, Cam Taylor-Britt (CB) - Doubtful, Joe Burrow (QB) - Out"
+    },
+    {
+      "away_team": "PIT",
+      "home_team": "NE",
+      "winner": "NE",
+      "confidence": 63.2,
+      "injury_report": "NE: No significant injuries | PIT: DeShon Elliott (S) - Out, Alex Highsmith (LB) - Out, Joey Porter Jr. (CB) - Out, Max Scharping (G) - Out"
+    },
+    {
+      "away_team": "LA",
+      "home_team": "PHI",
+      "winner": "PHI",
+      "confidence": 53.8,
+      "injury_report": "PHI: Will Shipley (RB) - Out | LA: No significant injuries"
+    },
+    {
+      "away_team": "NYJ",
+      "home_team": "TB",
+      "winner": "TB",
+      "confidence": 71.8,
+      "injury_report": "TB: Chris Godwin Jr. (WR) - Out, Tristan Wirfs (T) - Out | NYJ: Justin Fields (QB) - Out, Jermaine Johnson II (DE) - Out, Kene Nwangwu (RB) - Out, Josh Reynolds (WR) - Out, Jay Tufele (DT) - Out"
+    },
+    {
+      "away_team": "IND",
+      "home_team": "TEN",
+      "winner": "IND",
+      "confidence": 89.8,
+      "injury_report": "TEN: JC Latham (T) - Out, T'Vondre Sweat (DT) - Out, Kevin Winston Jr. (S) - Doubtful | IND: No significant injuries"
+    },
+    {
+      "away_team": "LV",
+      "home_team": "WAS",
+      "winner": "LV",
+      "confidence": 52.5,
+      "injury_report": "WAS: John Bates (TE) - Out, Noah Brown (WR) - Out, Jayden Daniels (QB) - Out | LV: No significant injuries"
+    },
+    {
+      "away_team": "DEN",
+      "home_team": "LAC",
+      "winner": "LAC",
+      "confidence": 68.8,
+      "injury_report": "LAC: Will Dissly (TE) - Out, Elijah Molden (S) - Out | DEN: Evan Engram (TE) - Out, Dre Greenlaw (LB) - Out"
+    },
+    {
+      "away_team": "NO",
+      "home_team": "SEA",
+      "winner": "SEA",
+      "confidence": 51.0,
+      "injury_report": "SEA: Zach Charbonnet (RB) - Doubtful, Nick Emmanwori (S) - Doubtful, Julian Love (S) - Doubtful, Devon Witherspoon (CB) - Doubtful | NO: Dillon Radunz (G) - Out, Chase Young (DE) - Out"
+    },
+    {
+      "away_team": "DAL",
+      "home_team": "CHI",
+      "winner": "DAL",
+      "confidence": 78.2,
+      "injury_report": "CHI: Kiran Amegadjie (G) - Out, T.J. Edwards (LB) - Out, Kyler Gordon (CB) - Out, Jaylon Johnson (CB) - Out, Jaylon Jones (CB) - Out | DAL: DaRon Bland (CB) - Out"
+    },
+    {
+      "away_team": "ARI",
+      "home_team": "SF",
+      "winner": "ARI",
+      "confidence": 57.7,
+      "injury_report": "SF: Spencer Burford (T) - Out, Jordan Watkins (WR) - Out | ARI: Will Johnson (CB) - Doubtful"
+    },
+    {
+      "away_team": "KC",
+      "home_team": "NYG",
+      "winner": "KC",
+      "confidence": 50.6,
+      "injury_report": "NYG: Demetrius Flannigan-Fowles (LB) - Doubtful, Darius Muasau (LB) - Out, Rakeem Nunez-Roches (DT) - Doubtful | KC: Michael Danna (DE) - Out, Kristian Fulton (CB) - Out"
+    },
+    {
+      "away_team": "DET",
+      "home_team": "BAL",
+      "winner": "BAL",
+      "confidence": 57.5,
+      "injury_report": "BAL: No significant injuries | DET: No significant injuries"
+    }
+  ],
+  "results": {
+    "MIA@BUF": { "home_score": 24, "away_score": 17, "actual_winner": "BUF" },
+    "ATL@CAR": { "home_score": 14, "away_score": 21, "actual_winner": "ATL" },
+    "GB@CLE": { "home_score": 20, "away_score": 24, "actual_winner": "GB" },
+    "HOU@JAX": { "home_score": 28, "away_score": 21, "actual_winner": "JAX" },
+    "CIN@MIN": { "home_score": 17, "away_score": 24, "actual_winner": "CIN" },
+    "PIT@NE": { "home_score": 21, "away_score": 14, "actual_winner": "NE" },
+    "LA@PHI": { "home_score": 31, "away_score": 28, "actual_winner": "PHI" },
+    "NYJ@TB": { "home_score": 24, "away_score": 17, "actual_winner": "TB" },
+    "IND@TEN": { "home_score": 13, "away_score": 28, "actual_winner": "IND" },
+    "LV@WAS": { "home_score": 14, "away_score": 21, "actual_winner": "LV" },
+    "DEN@LAC": { "home_score": 31, "away_score": 24, "actual_winner": "LAC" },
+    "NO@SEA": { "home_score": 28, "away_score": 24, "actual_winner": "SEA" },
+    "DAL@CHI": { "home_score": 14, "away_score": 31, "actual_winner": "DAL" },
+    "ARI@SF": { "home_score": 17, "away_score": 24, "actual_winner": "ARI" },
+    "KC@NYG": { "home_score": 14, "away_score": 21, "actual_winner": "KC" },
+    "DET@BAL": { "home_score": 28, "away_score": 24, "actual_winner": "BAL" }
+  }
+}
